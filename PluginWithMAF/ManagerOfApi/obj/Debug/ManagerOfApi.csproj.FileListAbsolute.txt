@@ -1,0 +1,14 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\ManagerOfApi\bin\Debug\ManagerOfApi.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\ManagerOfApi\bin\Debug\ManagerOfApi.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\ManagerOfApi\obj\Debug\ManagerOfApi.csprojResolveAssemblyReference.cache
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\ManagerOfApi\obj\Debug\ManagerOfApi.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\ManagerOfApi\obj\Debug\ManagerOfApi.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\ManagerOfApi\bin\Debug\PluginHostView.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\ManagerOfApi\bin\Debug\PluginHostView.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\ManagerOfApi\bin\Debug\ManagerOfApi.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\ManagerOfApi\bin\Debug\ManagerOfApi.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\ManagerOfApi\bin\Debug\PluginHostView.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\ManagerOfApi\bin\Debug\PluginHostView.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\ManagerOfApi\obj\Debug\ManagerOfApi.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\ManagerOfApi\obj\Debug\ManagerOfApi.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\ManagerOfApi\obj\Debug\ManagerOfApi.pdb

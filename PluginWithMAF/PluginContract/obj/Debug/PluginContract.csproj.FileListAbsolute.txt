@@ -1,0 +1,10 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1Contract\obj\Debug\PluginContract.csprojResolveAssemblyReference.cache
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\Contracts\PluginContract.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\Contracts\PluginContract.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1Contract\obj\Debug\PluginContract.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1Contract\obj\Debug\PluginContract.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Pipeline\Contracts\PluginContract.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Pipeline\Contracts\PluginContract.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginContract\obj\Debug\PluginContract.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginContract\obj\Debug\PluginContract.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginContract\obj\Debug\PluginContract.pdb

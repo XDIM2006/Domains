@@ -1,0 +1,10 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1HostSideAdapter\obj\Debug\PluginHostSideAdapter.csprojResolveAssemblyReference.cache
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\HostSideAdapters\PluginHostSideAdapter.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\HostSideAdapters\PluginHostSideAdapter.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1HostSideAdapter\obj\Debug\PluginHostSideAdapter.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1HostSideAdapter\obj\Debug\PluginHostSideAdapter.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Pipeline\HostSideAdapters\PluginHostSideAdapter.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Pipeline\HostSideAdapters\PluginHostSideAdapter.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginHostSideAdapter\obj\Debug\PluginHostSideAdapter.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginHostSideAdapter\obj\Debug\PluginHostSideAdapter.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginHostSideAdapter\obj\Debug\PluginHostSideAdapter.pdb

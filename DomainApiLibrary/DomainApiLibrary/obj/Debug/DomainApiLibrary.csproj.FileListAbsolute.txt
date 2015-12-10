@@ -1,0 +1,5 @@
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\DomainApiLibrary\bin\Debug\DomainApiLibrary.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\DomainApiLibrary\bin\Debug\DomainApiLibrary.pdb
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\DomainApiLibrary\obj\Debug\DomainApiLibrary.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\DomainApiLibrary\obj\Debug\DomainApiLibrary.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\DomainApiLibrary\obj\Debug\DomainApiLibrary.pdb

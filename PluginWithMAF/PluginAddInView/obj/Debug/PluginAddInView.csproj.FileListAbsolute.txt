@@ -1,0 +1,10 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInView\obj\Debug\PluginAddInView.csprojResolveAssemblyReference.cache
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddInViews\PluginAddInView.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddInViews\PluginAddInView.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInView\obj\Debug\PluginAddInView.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInView\obj\Debug\PluginAddInView.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Pipeline\AddInViews\PluginAddInView.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Pipeline\AddInViews\PluginAddInView.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginAddInView\obj\Debug\PluginAddInView.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginAddInView\obj\Debug\PluginAddInView.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginAddInView\obj\Debug\PluginAddInView.pdb

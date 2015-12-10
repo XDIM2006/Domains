@@ -1,0 +1,10 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\obj\Debug\PluginAddInSideAdapter.csprojResolveAssemblyReference.cache
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddInSideAdapters\PluginAddInSideAdapter.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddInSideAdapters\PluginAddInSideAdapter.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\obj\Debug\PluginAddInSideAdapter.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\obj\Debug\PluginAddInSideAdapter.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Pipeline\AddInSideAdapters\PluginAddInSideAdapter.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Pipeline\AddInSideAdapters\PluginAddInSideAdapter.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginAddInSideAdapter\obj\Debug\PluginAddInSideAdapter.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginAddInSideAdapter\obj\Debug\PluginAddInSideAdapter.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginAddInSideAdapter\obj\Debug\PluginAddInSideAdapter.pdb

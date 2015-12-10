@@ -1,0 +1,9 @@
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\UnitTestDomainApiLibrary\bin\Debug\UnitTestDomainApiLibrary.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\UnitTestDomainApiLibrary\bin\Debug\UnitTestDomainApiLibrary.pdb
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\UnitTestDomainApiLibrary\bin\Debug\DomainApiLibrary.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\UnitTestDomainApiLibrary\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\UnitTestDomainApiLibrary\bin\Debug\DomainApiLibrary.pdb
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\UnitTestDomainApiLibrary\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\UnitTestDomainApiLibrary\obj\Debug\UnitTestDomainApiLibrary.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\UnitTestDomainApiLibrary\obj\Debug\UnitTestDomainApiLibrary.dll
+c:\users\дмитрий\documents\visual studio 2015\Projects\DomainApiLibrary\UnitTestDomainApiLibrary\obj\Debug\UnitTestDomainApiLibrary.pdb

@@ -1,0 +1,11 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\bin\Debug\Calc1AddInSideAdapter.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\bin\Debug\Calc1AddInSideAdapter.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\bin\Debug\Calc1AddInView.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\bin\Debug\Calc1Contract.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\bin\Debug\Calc1AddInView.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\bin\Debug\Calc1Contract.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\obj\Debug\Calc1AddInSideAdapter.csprojResolveAssemblyReference.cache
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\obj\Debug\Calc1AddInSideAdapter.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1AddInSideAdapter\obj\Debug\Calc1AddInSideAdapter.pdb
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddInSideAdapters\Calc1AddInSideAdapter.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddInSideAdapters\Calc1AddInSideAdapter.pdb

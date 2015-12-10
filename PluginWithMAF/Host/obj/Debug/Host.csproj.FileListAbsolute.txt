@@ -1,0 +1,17 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Host\bin\Debug\Host.exe.config
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Host\bin\Debug\Host.exe
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Host\bin\Debug\Host.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Host\bin\Debug\Calc1HostView.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Host\bin\Debug\Calc1HostView.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Host\obj\Debug\Host.exe
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Host\obj\Debug\Host.pdb
+D:\mentoring\Working with AppDomains\Samples\MyApp\Host.exe.config
+D:\mentoring\Working with AppDomains\Samples\MyApp\Host.exe
+D:\mentoring\Working with AppDomains\Samples\MyApp\Host.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Host.exe.config
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Host.exe
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Host.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\Host\obj\Debug\Host.exe
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\Host\obj\Debug\Host.pdb

@@ -1,0 +1,10 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1HostView\obj\Debug\PluginHostView.csprojResolveAssemblyReference.cache
+D:\mentoring\Working with AppDomains\Samples\MyApp\PluginHostView.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\PluginHostView.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1HostView\obj\Debug\PluginHostView.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1HostView\obj\Debug\PluginHostView.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\PluginHostView.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\PluginHostView.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginHostView\obj\Debug\PluginHostView.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginHostView\obj\Debug\PluginHostView.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginHostView\obj\Debug\PluginHostView.pdb

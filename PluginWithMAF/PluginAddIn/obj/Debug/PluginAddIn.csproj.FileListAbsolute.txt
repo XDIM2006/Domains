@@ -1,0 +1,10 @@
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddIns\Calc1\AddInV1.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddIns\Calc1\AddInV1.pdb
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddIns\Plugin\PluginAddIN.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddIns\Plugin\PluginAddIN.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\AddInV1\obj\Debug\PluginAddIN.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\AddInV1\obj\Debug\PluginAddIN.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Pipeline\AddIns\Plugin\PluginAddIN.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\MyApp\Pipeline\AddIns\Plugin\PluginAddIN.pdb
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginAddIn\obj\Debug\PluginAddIN.dll
+C:\Users\Дмитрий\Documents\GitHub\Domains\PluginWithMAF\PluginAddIn\obj\Debug\PluginAddIN.pdb

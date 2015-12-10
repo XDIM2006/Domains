@@ -1,0 +1,11 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\AddInV1\bin\Debug\AddInV1.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\AddInV1\bin\Debug\AddInV1.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\AddInV1\bin\Debug\Calc1AddInView.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\AddInV1\bin\Debug\Calc1AddInView.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\AddInV1\obj\Debug\AddInV1.csprojResolveAssemblyReference.cache
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\AddInV1\obj\Debug\AddInV1.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\AddInV1\obj\Debug\AddInV1.pdb
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddIns\CalcV1\AddInV1.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddIns\CalcV1\AddInV1.pdb
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddIns\Calc1\AddInV1.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\AddIns\Calc1\AddInV1.pdb

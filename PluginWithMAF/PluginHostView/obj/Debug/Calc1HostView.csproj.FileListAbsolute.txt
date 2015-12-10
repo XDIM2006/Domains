@@ -1,0 +1,6 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1HostView\bin\Debug\Calc1HostView.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1HostView\bin\Debug\Calc1HostView.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1HostView\obj\Debug\Calc1HostView.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1HostView\obj\Debug\Calc1HostView.pdb
+D:\mentoring\Working with AppDomains\Samples\MyApp\Calc1HostView.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Calc1HostView.pdb

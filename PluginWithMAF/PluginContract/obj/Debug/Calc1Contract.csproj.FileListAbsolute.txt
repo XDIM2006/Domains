@@ -1,0 +1,6 @@
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1Contract\bin\Debug\Calc1Contract.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1Contract\bin\Debug\Calc1Contract.pdb
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1Contract\obj\Debug\Calc1Contract.dll
+D:\mentoring\Working with AppDomains\Samples\CalculatorV1\Calc1Contract\obj\Debug\Calc1Contract.pdb
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\Contracts\Calc1Contract.dll
+D:\mentoring\Working with AppDomains\Samples\MyApp\Pipeline\Contracts\Calc1Contract.pdb
